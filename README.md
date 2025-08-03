@@ -3,16 +3,16 @@
 ## *Induction prograam 2025*
 ###### Batch:-2025-2029 (CSE)
 
-### Day:-1
+# Day:-1
 
 The campus of **Guru Nanak Dev Engineering College**, *Ludhiana*, echoed with energy and excitement on the first day of the Student Induction Program 2025 for the freshers of **Computer Science and Information Technology branches**. The day unfolded with a warm and inspirational welcome that set the tone for an enriching academic journey ahead.
 
-**🕊️ Morning: A Spiritual Beginning**
+## **🕊️ Morning: A Spiritual Beginning**
 
 * **Paath and Kirtan** at the College Gurudwara Sahib, similar to other branches, marked the start of the induction day. New students were welcomed with *religious singing* and collective prayers to set a reflective, respectful tone for the day.  
 
 
-**⚙️ Formal Inaugural Ceremony — Auditorium**
+## **⚙️ Formal Inaugural Ceremony — Auditorium**
 
 > After the spiritual session, students moved to the *college auditorium*. The ceremony was kicked off by **Dr. Harpreet Kaur Grewal**, *Head of Applied Sciences*, extending a warm welcome to the CSE & IT batch and highlighting GNDEC’s academic culture.  
 >
@@ -27,7 +27,7 @@ The campus of **Guru Nanak Dev Engineering College**, *Ludhiana*, echoed with en
 >> Other dignitaries included senior trustees and faculty, reflecting the values and vision **GNDEC** aims to instill.  
 
 
-**🧑‍💻 Department-Level Session & Mentoring**
+## **🧑‍💻 Department-Level Session & Mentoring**
 
 * *Students then went to their CSE & IT departments for detailed orientations:*
 
@@ -39,20 +39,20 @@ The campus of **Guru Nanak Dev Engineering College**, *Ludhiana*, echoed with en
 
 * Practical walkthroughs of labs and demo sessions helped familiarize students with the learning environment and resources.
 
-**🌐 Peer & Interaction Activities**
+## **🌐 Peer & Interaction Activities**
 
 In keeping with GNDEC’s focus on early student bonding, there were ice-breaker sessions and team-building activities that encouraged interaction across sections.  
 
 
-**📅 Provisional Sections & Scheduling**
+## **📅 Provisional Sections & Scheduling**
 
 On *26 July 2025*, the Applied Sciences department released the provisional section, subsection, and mentoring group assignments for both CSE and IT first‑year students, enabling them to know their groupings in advance.  
 
-**📷 Visual Highlights & Media**
+## **📷 Visual Highlights & Media**
 
 GNDEC’s official social media & digital platforms shared photo and video glimpses from the CSE & IT induction sessions. Instagram reels and Facebook posts captured key moments—such as speeches, group activities, dignitary interactions, and lab tours.  
 
-**📋 Summary Timeline**
+## **📋 Summary Timeline**
 
 *Time	Activity*
 
@@ -61,7 +61,7 @@ GNDEC’s official social media & digital platforms shared photo and video glimp
 * #### Late morning–Afternoon	Departmental orientation, lab tours, mentor allocation
 * #### Afternoon	Ice-breakers, club intros, peer bonding sessions
 
-**🎓 Notable Attendees**
+## **🎓 Notable Attendees**
 >
 > *Dr. Harpreet Kaur Grewal (Head, Applied Sciences)*
 >
@@ -73,7 +73,7 @@ GNDEC’s official social media & digital platforms shared photo and video glimp
 *The entire day was a beautiful blend of motivation, interaction, and institutional pride, providing the students of CS and IT branches a powerful start to their professional and academic lives.*
 
 
-### Day:-2
+# Day:-2
 
 ###### Journey of Reflection, Support, and Inspiration
 
@@ -152,7 +152,7 @@ This was more than just a “Day 3” in an induction series — it was a day wh
 
 
 
-### Day:-3
+# Day:-3
 
 ###### ✨ Values, Vision, and Discovery
 
