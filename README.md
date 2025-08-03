@@ -174,23 +174,6 @@ By the end of the day, students left not just with new knowledge—but with new 
 
 ---
 
-## 📸 Event Photos
-
-
-### Chief Guest Address – Sardar Gurcharan Singh Grewal  
-![Sardar Gurcharan Singh Grewal Speaking](image1.jpg)
-
-### Dr. Jaswinder Singh's Live Experiments Session  
-![Dr. Jaswinder Singh – Interactive Teaching](image2.jpg)
-
-### Dr. Priyadarshini on Universal Human Values  
-![Dr. Priyadarshini – Value Education](image3.jpg)
-
-### Auditorium View – Student Reflections & Participation  
-![Students Participating](image4.jpg)
-
----
-
 ## 📋 Main Highlights of the Day
 
 | 🕒 Time          | 🗣️ Session/Speaker                                | 🎯 Focus Area                                                  |
