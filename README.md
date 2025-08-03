@@ -1,10 +1,11 @@
 # **GNDEC,Ludhiana**
 
 ## *Induction prograam 2025*
-###### Batch:-2025-2029
+###### Batch:-2025-2029 (CSE)
 
 ### Day:-1
 
+The campus of **Guru Nanak Dev Engineering College**, *Ludhiana*, echoed with energy and excitement on the first day of the Student Induction Program 2025 for the freshers of **Computer Science and Information Technology branches**. The day unfolded with a warm and inspirational welcome that set the tone for an enriching academic journey ahead.
 
 **🕊️ Morning: A Spiritual Beginning**
 
@@ -19,6 +20,10 @@
 >
 >> A special guest—Er. **Ravinder Garg**, *Chief Engineer of Municipal Corporation Ludhiana*—joined the program, offering career insight and real-world advice, emphasizing civic responsibility and community impact in technology roles.  
 >>
+>> Further, the students had the opportunity to interact with **Shri Ashok Singla**, *Financial Advisor*, whose practical insights and encouraging words gave students a new lens through which to view their future.
+>> 
+>> This was followed by engaging addresses from two brilliant alumni from the 2021–2025 batch: **Mr. Sangam Arora**, a proud Computer Science topper and currently placed at *Arguesoft*, shared his journey and motivated students with his valuable experiences. Followed by **Mr. Arshpreet Singh**, the IT branch topper now working at *Airtel*, Gurugram, spoke about his learnings and the role GNDEC played in shaping his future.
+>> 
 >> Other dignitaries included senior trustees and faculty, reflecting the values and vision **GNDEC** aims to instill.  
 
 
@@ -63,3 +68,6 @@ GNDEC’s official social media & digital platforms shared photo and video glimp
 > *Dr. Sehijpal Singh (Principal)*
 >
 > *Er. Ravinder Garg, Chief Engineer, Municipal Corporation Ludhiana*
+
+
+*The entire day was a beautiful blend of motivation, interaction, and institutional pride, providing the students of CS and IT branches a powerful start to their professional and academic lives.*
