@@ -81,7 +81,7 @@ GNDEC’s official social media & digital platforms shared photo and video glimp
 
 ## ✨ Overview
 
-Day 3 of the CSE & IT Induction Programme at Guru Nanak Dev Engineering College, Ludhiana, held on **August 1, 2025**, was nothing short of transformational. It offered a powerful blend of **academic assessment, emotional enrichment, and personal wellness**, creating an atmosphere that helped new students take their first meaningful steps into engineering life.
+Day 2 of the CSE & IT Induction Programme at Guru Nanak Dev Engineering College, Ludhiana, held on **August 1, 2025**, was nothing short of transformational. It offered a powerful blend of **academic assessment, emotional enrichment, and personal wellness**, creating an atmosphere that helped new students take their first meaningful steps into engineering life.
 
 The day began with structured evaluations and evolved into a stage for compassionate outreach and motivational insight. From testing communication and problem-solving abilities to learning about scholarships and health, this day laid the foundation for students to grow — not only as engineers but as **empathetic, self-aware individuals**.
 
@@ -144,8 +144,95 @@ By **4:30 PM**, students left the campus not just as attendees of an induction e
 
 ---
 
-## 🏁 Why Day 3 Mattered
+## 🏁 Why Day 2 Mattered
 
 This was more than just a “Day 3” in an induction series — it was a day where assessments met inspiration, and lectures were layered with emotion and support. It marked the first real connection students made with their institution — not just as a place of learning, but as a **community that sees their potential, understands their challenges, and prepares them for growth**.
+
+---
+
+
+
+### Day:-3
+
+###### ✨ Values, Vision, and Discovery
+
+---
+
+## 📝 A Reflective Narrative
+
+Day 3 of the CSE & IT Induction Programme at **Guru Nanak Dev Engineering College, Ludhiana**, held on **August 2, 2025**, offered an inspiring mix of **value-based learning, scientific curiosity, and self-reflection**. The event took place in the college auditorium and served as a powerful reminder that the journey of an engineer begins not only with knowledge but with character.
+
+The day began with a fascinating and highly interactive session by **Dr. Jaswinder Singh**, a **Siksharatan Awardee**, whose use of **live experiments and creative demonstrations** brought a fresh perspective to teaching and learning. His enthusiasm and unconventional style created an energetic and joyful atmosphere that deeply engaged the students.
+
+The energy then shifted into reflection and thoughtfulness as **Dr. Priyadarshini**, an esteemed expert in **Universal Human Values**, took the stage. She emphasized that **ethics and empathy** are not accessories to education—they are its backbone. Her talk highlighted how values like integrity, responsibility, and compassion shape not only better engineers, but better humans.
+
+The event’s emotional and motivational high point was the address by **Sardar Gurcharan Singh Grewal**, respected member of the **Shiromani Gurdwara Parbandhak Committee (SGPC)** and the **Nankana Sahib Education Trust**. His grounded, yet visionary words encouraged students to **stay rooted in values while reaching for excellence**—a perfect mantra for young minds stepping into the professional world.
+
+Toward the end, students participated in **interactive discussion sessions** where they reflected on their **English and Maths proficiency test results**, analyzing their strengths and areas for improvement in a supportive setting.
+
+By the end of the day, students left not just with new knowledge—but with new questions, perspectives, and a deeper appreciation for how **values guide the use of knowledge**.
+
+---
+
+## 📸 Event Photos
+
+
+### Chief Guest Address – Sardar Gurcharan Singh Grewal  
+![Sardar Gurcharan Singh Grewal Speaking](image1.jpg)
+
+### Dr. Jaswinder Singh's Live Experiments Session  
+![Dr. Jaswinder Singh – Interactive Teaching](image2.jpg)
+
+### Dr. Priyadarshini on Universal Human Values  
+![Dr. Priyadarshini – Value Education](image3.jpg)
+
+### Auditorium View – Student Reflections & Participation  
+![Students Participating](image4.jpg)
+
+---
+
+## 📋 Main Highlights of the Day
+
+| 🕒 Time          | 🗣️ Session/Speaker                                | 🎯 Focus Area                                                  |
+|------------------|---------------------------------------------------|----------------------------------------------------------------|
+| Morning          | **Dr. Jaswinder Singh** (Siksharatan Awardee)     | Live experiments, joyful learning, scientific exploration      |
+| Late Morning     | **Dr. Priyadarshini**                              | Universal Human Values, ethics, empathy in education           |
+| Afternoon        | **Sardar Gurcharan Singh Grewal** (Chief Guest)   | Motivation, rooted values, vision for excellence               |
+| Closing Sessions | Faculty-Led Interactive Discussions                | Reflections on proficiency tests and academic self-awareness   |
+
+---
+
+## 🎤 Speakers & Contributions
+
+| 👨‍🏫 Name                          | 🧵 Topic / Role                                 | 💬 Key Contribution                                                 |
+|----------------------------------|------------------------------------------------|---------------------------------------------------------------------|
+| **Dr. Jaswinder Singh**          | Joyful Learning & Scientific Engagement        | Used live demonstrations to make learning interactive and memorable |
+| **Dr. Priyadarshini**            | Universal Human Values                         | Spoke on ethics, empathy, responsibility in the life of an engineer |
+| **Sardar Gurcharan Singh Grewal**| Chief Guest, SGPC & Nankana Sahib Trust        | Motivated students to combine excellence with values                |
+
+---
+
+## 🧠 Key Takeaways
+
+- 🎯 **Learning is joyful** when it's hands-on, creative, and engaging.
+- 🧠 **Values matter** — empathy, ethics, and responsibility make knowledge meaningful.
+- 🪴 **Stay grounded** in principles, but dream high — aim for both excellence and character.
+- 🔍 **Reflection fuels improvement** — reviewing test performance builds self-awareness.
+
+---
+
+## 🧩 Skills & Themes Covered
+
+- ✅ Scientific Curiosity  
+- ✅ Value-Based Education  
+- ✅ Communication & Reflection  
+- ✅ Motivation & Ethical Vision  
+- ✅ Academic Self-Awareness
+
+---
+
+## 🏁 Conclusion
+
+Day 3 was a blend of curiosity, compassion, and contemplation. It reminded every student that the path to becoming a successful engineer is paved not just with circuits and code—but with conscience, clarity, and courage. GNDEC once again proved that it doesn't just build professionals; it nurtures responsible and visionary individuals.
 
 ---
