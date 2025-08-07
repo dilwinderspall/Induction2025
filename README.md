@@ -219,3 +219,66 @@ By the end of the day, students left not just with new knowledge—but with new 
 Day 3 was a blend of curiosity, compassion, and contemplation. It reminded every student that the path to becoming a successful engineer is paved not just with circuits and code—but with conscience, clarity, and courage. GNDEC once again proved that it doesn't just build professionals; it nurtures responsible and visionary individuals.
 
 ---
+
+# Day:-4
+*Venue: GNDEC Auditorium and Classrooms | Time: 9:30 AM – 4:30 PM*  
+
+---
+
+## 🏫 **Introduction**  
+Day 4 of the B.Tech Induction Program at **Guru Nanak Dev Engineering College (GNDEC), Ludhiana** was a blend of **academic learning**, **peer engagement**, and **creative exploration**. The day's schedule was thoughtfully designed to help students adjust to the academic environment while also nurturing interpersonal skills and a values-based mindset. The sessions offered something for everyone — from language development to personal ethics, from collaborative peer sessions to club engagements.
+
+---
+
+## 🕘 **Detailed Schedule**
+
+| Time                | Session                                                                 |
+|---------------------|-------------------------------------------------------------------------|
+| 9:30 AM – 10:30 AM  | **Peer-to-Peer (P2P) Lecture**                                          |
+| 10:30 AM – 11:30 AM | **English Lecture by Ms. Manjot Kaur**                                 |
+| 11:30 AM – 12:30 PM | **Interactive Peer-to-Peer Sessions by Seniors & Faculty** *(Parallel)* |
+| 12:30 PM – 1:30 PM  | **Lunch Break**                                                        |
+| 1:30 PM – 3:00 PM   | **Expert Lecture on Universal Human Values by Dr. Priyadarshini**      |
+| 3:00 PM – 4:30 PM   | **Causmic Club Introduction & Creative Showcase**                      |
+
+---
+
+## 📘 **Session Highlights**
+
+### 🔹 Peer-to-Peer (P2P) Lecture – 9:30 AM to 10:30 AM  
+The day kicked off with an engaging **P2P (Peer-to-Peer) lecture**, where students interacted directly with their seniors in a relaxed, informal setting. These sessions emphasized the **importance of collaboration, self-learning**, and **mutual support** — setting a strong tone for the day ahead.
+
+### 🔹 English Lecture by Ms. Manjot Kaur – 10:30 AM to 11:30 AM  
+Language and communication were the focus during this session. **Ms. Manjot Kaur**, a respected faculty member, conducted a lecture aimed at enhancing students’ **English fluency**, **confidence**, and **professional speaking skills**. The session featured both grammar tips and practical communication exercises.
+
+### 🔹 Peer Interactive Classes – 11:30 AM to 12:30 PM  
+Running parallel to the above, **senior students and faculty facilitated interactive classes**, focusing on team-based activities, games, and informal Q&A segments. These sessions allowed freshers to open up, ask doubts, and form initial peer bonds — a key goal of the induction process.
+
+---
+
+## 🍽️ **Lunch Break – 12:30 PM to 1:30 PM**  
+Students relaxed and socialized over lunch, recharging for the informative afternoon sessions.
+
+---
+
+### 🔹 Expert Lecture on Universal Human Values – 1:30 PM to 3:00 PM  
+Post-lunch, the auditorium hosted an **insightful session by Dr. Priyadarshini**, focusing on **Universal Human Values (UHV)**. She discussed the importance of living a **conscious, compassionate, and ethical life**, helping students connect academic pursuits with moral growth. The session resonated deeply, inspiring students to reflect on purpose and personal integrity.
+
+---
+
+### 🔹 The Causmic Club Showcase – 3:00 PM to 4:30 PM  
+The day concluded on a high note with an introduction to **The Causmic Club** — a student-led body known for its **creative, leadership, and innovation-driven initiatives**. Freshers got a first-hand glimpse into the vibrant cultural life at GNDEC, including opportunities to explore **event planning, public speaking, design, and tech-based creativity**.
+
+---
+
+## 🔑 **Key Takeaways**
+
+- 🤝 Stronger student-senior bonding through P2P and parallel interactive sessions  
+- 🗣️ Improved communication and English language insight via formal instruction  
+- 🌱 Deep values-based learning through the UHV lecture  
+- 🎭 Exposure to student-led clubs fostering creativity and engagement
+
+---
+
+## 📝 **Conclusion**  
+Day 4 was a microcosm of GNDEC’s holistic approach to engineering education — **academic, ethical, and extracurricular learning woven together**. With each passing day, the induction program continues to empower students not just to study, but to belong.
