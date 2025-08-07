@@ -278,7 +278,61 @@ The day concluded on a high note with an introduction to **The Causmic Club** �
 - 🌱 Deep values-based learning through the UHV lecture  
 - 🎭 Exposure to student-led clubs fostering creativity and engagement
 
+
 ---
 
 ## 📝 **Conclusion**  
 Day 4 was a microcosm of GNDEC’s holistic approach to engineering education — **academic, ethical, and extracurricular learning woven together**. With each passing day, the induction program continues to empower students not just to study, but to belong.
+
+# Day 5 (August 5, 2025)**  
+*For: B.Tech CSE – Section B | Venue: Classrooms & ID Registration Hall | Time: 10:30 AM – 4:30 PM*  
+
+---
+
+## 🏫 **Introduction**  
+The seventh day of the induction program for **Computer Science and Engineering (CSE) – B Section** at **Guru Nanak Dev Engineering College (GNDEC), Ludhiana**, was a mix of **technical lectures** and **administrative formalities**. The day began with an emphasis on electrical engineering fundamentals and ended with the official **ID card registration process**, an important administrative milestone in the onboarding of students.
+
+---
+
+## 🕘 **Detailed Schedule**
+
+| Time                | Session                                                                 |
+|---------------------|-------------------------------------------------------------------------|
+| 10:30 AM – 11:30 AM | **BEEE Lecture by Prof. Harminder Kaur**                               |
+| 11:30 AM – 12:30 PM | **Lecture by Prof. Mandeep Kaur**                                      |
+| 12:30 PM – 2:00 PM  | **Break**                                                               |
+| 2:00 PM – 4:30 PM   | **ID Card Registration: Photo & Signature Collection**                 |
+
+---
+
+## 📘 **Session Highlights**
+
+### 🔹 BEEE Lecture by Prof. Harminder Kaur – 10:30 AM to 11:30 AM  
+The day commenced with a **Basic Electrical and Electronics Engineering (BEEE)** lecture delivered by **Prof. Harminder Kaur**, who presented the core principles in an engaging and student-friendly manner. Her session laid down the foundation of electrical understanding — a crucial pillar for engineering students regardless of their specialization.
+
+### 🔹 Lecture by Prof. Mandeep Kaur – 11:30 AM to 12:30 PM  
+Following the technical deep dive, **Prof. Mandeep Kaur** took over the next session. Her lecture focused on concepts relevant to early-stage engineering learning, fostering critical thinking and introducing students to discipline-specific methodologies.
+
+---
+
+## 🍽️ **Break – 12:30 PM to 2:00 PM**  
+A 1.5-hour break allowed students to unwind, refresh, and prepare for the next essential activity — the ID card process.
+
+---
+
+### 🪪 ID Card Registration – 2:00 PM to 4:30 PM  
+After the break, all students proceeded to the **ID card registration hall**, where the process of **photo capturing and digital signature collection** was carried out. This activity was smooth and well-organized, with faculty assistance ensuring that each student completed their registration accurately. This marked an official step toward becoming a full-fledged GNDEC student.
+
+---
+
+## 🔑 **Key Takeaways**
+
+- ⚡ Technical foundation built through engaging BEEE session  
+- 🎓 Practical orientation continued via second lecture by experienced faculty  
+- 🪪 Successful completion of ID card formalities  
+- 👥 Streamlined administrative coordination and student engagement
+
+---
+
+## 📝 **Conclusion**  
+Day 5 served as both an academic and administrative checkpoint in the ongoing induction journey of CSE students. With each passing day, students are not only gaining classroom exposure but also becoming more familiar with institutional processes — building both **competence and confidence**.
