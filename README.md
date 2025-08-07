@@ -404,4 +404,103 @@ To conclude the day on a high note, **Dr. Arvind Dhangra** delivered a short but
 ---
 
 ## 📝 **Conclusion**  
-Day 6 reflected GNDEC's commitment to a **well-rounded induction experience** — blending academics, ethics, digital literacy, and emotional motivation. Students left the campus not just with knowledge, but also with a greater sense of direction and belonging in the GNDEC family.
+Day 6 reflected GNDEC's commitment to a **well-rounded induction experience** — blending academics, ethics, digital literacy, and emotional motivation. Students left the campus not just with knowledge, but also with a greater sense of direction and belonging in the GNDEC Day 9 (August 7, 2025)**  
+*For: B.Tech CSE – Section B | Venue: Auditorium & ME Seminar Hall | Time: 9:30 AM – 3:30 PM*  
+
+## 🏫 **Introduction**  
+Day 9 of the B.Tech Induction Program at **Guru Nanak Dev Engineering College (GNDEC), Ludhiana** was rich in orientation-based sessions designed to help students understand the academic, social, and ethical ecosystem of the college. The focus of the day was to **introduce institutional structure, student welfare platforms, opportunities for personal development**, and the formal guidelines that would define students’ academic journeys. This day empowered students with the information they need to make the most out of their time at GNDEC.
+
+---
+
+## 🕘 **Detailed Schedule**
+
+| Time                | Session                                                                 |
+|---------------------|-------------------------------------------------------------------------|
+| 9:30 AM – 10:30 AM  | **College Orientation by Dr. Amit Khamra**                              |
+| 10:30 AM – 11:30 AM | **DMC (Digital Marketing Club) Session by Dr. Parminder Singh**         |
+| 11:30 AM – 12:30 PM | **Examination Conduct Guidelines by Dr. Randhir Singh**                 |
+| 12:30 PM – 1:30 PM  | **Break**                                                               |
+| 1:30 PM – 2:30 PM   | **BEEE Lecture by Prof. Harminder Kaur (ME Seminar Hall)**              |
+| 2:30 PM – 3:30 PM   | **Peer-to-Peer (P2P) Session by 3rd Year B.Tech Student**               |
+
+---
+
+## 📘 **Session Highlights**
+
+### 🔹 College Orientation by Dr. Amit Khamra – 9:30 AM to 10:30 AM  
+The day began in the **auditorium** with a comprehensive orientation led by **Dr. Amit Khamra**, who walked students through the **overall structure and resources of GNDEC**. The session was packed with valuable insights, including:
+
+- 🎓 An overview of the **college’s academic departments**, centers of excellence, and faculty hierarchy.  
+- 🌐 Information on various **student-run clubs and societies**, ranging from cultural and technical to sports and literature. Students were encouraged to participate actively to build leadership, collaboration, and creativity.  
+- 💸 Details on **scholarships and financial aid**, including **merit-based, need-based, and government-backed programs**.  
+- 🧭 Guidance on the **library facilities, campus Wi-Fi**, computer labs, student grievance systems, and health care resources.  
+- 🏅 A discussion on the **Student Mentorship Program**, which connects juniors with senior mentors for academic and emotional support.
+
+Dr. Khamra’s session helped students feel less overwhelmed and more connected to the GNDEC environment, inspiring them to take charge of their personal and academic journey.
+
+---
+
+### 🔹 Digital Marketing Club (DMC) – Dr. Parminder Singh – 10:30 AM to 11:30 AM  
+Next, **Dr. Parminder Singh**, the **Dean of Student Welfare**, introduced the **Digital Marketing Club (DMC)**, a forward-thinking initiative that bridges technology with creativity. His session included:
+
+- 📲 What digital marketing is, and why it matters — even for engineering students.  
+- 📈 How students can **gain real-world experience** in managing social media campaigns, SEO, analytics, branding, and content creation.  
+- 💼 Opportunities within the club to **collaborate with local startups**, help with **campus promotion events**, and contribute to the **college’s digital presence**.  
+- 🧠 Workshops, certifications, and competitions that the DMC conducts throughout the year, often with support from alumni and industry experts.
+
+Students were encouraged to join the club not only for practical exposure but also for boosting creativity and entrepreneurial thinking.
+
+---
+
+### 🔹 Examination Conduct Session – Dr. Randhir Singh – 11:30 AM to 12:30 PM  
+The third session was a vital one, conducted by **Dr. Randhir Singh**, who explained the **Code of Conduct for Examinations** at GNDEC. The lecture covered:
+
+- 📝 Exam formats (theory, internal assessments, labs), attendance rules, and evaluation criteria.  
+- ⚠️ Disciplinary protocols around **cheating, plagiarism**, and improper conduct during exams.  
+- 📅 Understanding **mid-semester and end-semester evaluation timelines**, grade point systems, and reappear policies.  
+- 📌 Important tips on preparing, registering for exams, and managing stress during exam season.
+
+His transparent and authoritative explanation helped set clear expectations, ensuring that all students understood the importance of integrity and preparation.
+
+---
+
+## 🍽️ **Break – 12:30 PM to 1:30 PM**  
+After three back-to-back sessions, students enjoyed a much-needed break for refreshments and relaxation. The break also served as a time for students to reflect on the morning sessions and socialize with peers.
+
+---
+
+### 🔹 BEEE Lecture – Prof. Harminder Kaur – 1:30 PM to 2:30 PM  
+Post-break, students headed to the **Mechanical Engineering Seminar Hall** to attend a **Basic Electrical and Electronics Engineering (BEEE)** lecture by **Prof. Harminder Kaur**. Known for her engaging teaching style, she covered:
+
+- ⚡ Practical applications of current, resistance, and circuits  
+- 🧮 Engineering use-cases in electronics, motors, and digital systems  
+- 📊 Problem-solving strategies and numericals that engineers must master early on
+
+Her teaching style included real-life analogies and in-class quizzes, making the technical content easy to understand and enjoy.
+
+---
+
+### 🔹 Peer-to-Peer (P2P) Session – 2:30 PM to 3:30 PM  
+The final session was a **Peer-to-Peer (P2P) session** led by a **third-year B.Tech student**, who shared personal experiences, campus tips, and motivational advice. Topics included:
+
+- 📚 How to stay ahead academically and balance study with extracurriculars  
+- 🤝 Importance of building a network — both socially and professionally  
+- 💬 Advice on time management, self-study, and resource sharing  
+- 🎓 Internships, coding competitions, and placement preparations from a student’s perspective
+
+This interactive hour ended with a Q&A round where freshers asked honest questions — and got honest, relatable answers.
+
+---
+
+## 🔑 **Key Takeaways**
+
+- 🏛️ Orientation empowered students with institutional knowledge and resources  
+- 💡 DMC session opened up new pathways for technical creativity  
+- ✅ Exam conduct session ensured transparency and preparedness  
+- ⚡ BEEE lecture reinforced the technical foundation of the curriculum  
+- 🧍‍♂️ Peer session built confidence, motivation, and a sense of student unity
+
+---
+
+## 📝 **Conclusion**  
+Day 9 was one of the most **comprehensive and empowering days** of the GNDEC Induction Program so far. With a blend of administrative clarity, technical learning, and peer bonding, it left students better informed, better connected, and better prepared for the exciting journey ahead.
