@@ -284,7 +284,7 @@ The day concluded on a high note with an introduction to **The Causmic Club** �
 ## 📝 **Conclusion**  
 Day 4 was a microcosm of GNDEC’s holistic approach to engineering education — **academic, ethical, and extracurricular learning woven together**. With each passing day, the induction program continues to empower students not just to study, but to belong.
 
-# Day 5 (August 5, 2025)**  
+# Day:-5
 *For: B.Tech CSE – Section B | Venue: Classrooms & ID Registration Hall | Time: 10:30 AM – 4:30 PM*  
 
 ---
@@ -336,3 +336,72 @@ After the break, all students proceeded to the **ID card registration hall**, wh
 
 ## 📝 **Conclusion**  
 Day 5 served as both an academic and administrative checkpoint in the ongoing induction journey of CSE students. With each passing day, students are not only gaining classroom exposure but also becoming more familiar with institutional processes — building both **competence and confidence**.
+
+
+# Day:-6
+*For: B.Tech CSE – Section B | Venue: Classrooms & Auditorium | Time: 9:30 AM – 4:30 PM*  
+
+---
+
+## 🏫 **Introduction**  
+The eighth day of the B.Tech Induction Program at **Guru Nanak Dev Engineering College (GNDEC), Ludhiana**, offered a balanced mix of **academic rigor**, **motivational insights**, and **professional awareness**. Students from the CSE – B Section engaged in a variety of lectures and presentations that contributed not only to their technical foundation but also to their personal growth and career orientation. The day culminated in an inspiring and energizing session that left a lasting impression on everyone present.
+
+---
+
+## 🕘 **Detailed Schedule**
+
+| Time                | Session                                                                 |
+|---------------------|-------------------------------------------------------------------------|
+| 9:30 AM – 10:30 AM  | **Chemistry Lecture by Prof. Mandeep Kaur**                             |
+| 10:30 AM – 11:30 AM | **Maths Lecture by Prof. Gagandeep Kaur**                               |
+| 11:30 AM – 1:00 PM  | **Break**                                                               |
+| 1:00 PM – 1:30 PM   | **Motivational Address by Head of Nankana Sahib Trust Fund**            |
+| 1:30 PM – 3:30 PM   | **Talk on SWAYAM Program by Mr. Lakhvir Singh Khanna**                  |
+| 3:30 PM – 4:00 PM   | **Closing Remarks & Energy Boost by Dr. Arvind Dhangra**                |
+| 4:00 PM – 4:30 PM   | **Dispersal / Day End**                                                  |
+
+---
+
+## 📘 **Session Highlights**
+
+### 🔹 Chemistry Lecture by Prof. Mandeep Kaur – 9:30 AM to 10:30 AM  
+The day began with a **well-structured lecture on Chemistry** delivered by **Prof. Mandeep Kaur**. She introduced students to fundamental engineering chemistry concepts and tied them to real-world applications, particularly in electronics, materials, and sustainability. Her engaging style and relatable examples helped simplify complex ideas, setting a strong academic tone for the morning.
+
+### 🔹 Mathematics Lecture by Prof. Gagandeep Kaur – 10:30 AM to 11:30 AM  
+Right after, **Prof. Gagandeep Kaur** took over with a **mathematics lecture** that built on foundational principles such as functions, limits, and calculus — all essential for engineering problem-solving. Her interactive approach encouraged student participation, and she even introduced simple problem-solving challenges to stimulate critical thinking.
+
+---
+
+## 🍽️ **Break – 11:30 AM to 1:00 PM**  
+A 1.5-hour break provided students with much-needed rest, refreshments, and social time. Many used this time to reflect on the morning’s lectures or discuss academic pathways with peers.
+
+---
+
+### 🗣️ Motivational Address by Head of Nankana Sahib Trust Fund – 1:00 PM to 1:30 PM  
+Post-lunch, students assembled in the **auditorium**, where they were warmly addressed by the **Head of the Nankana Sahib Trust Fund**. The speaker offered a heartfelt and powerful motivational message, emphasizing **resilience, discipline, and community service**. Drawing on spiritual and historical examples, the address reminded students of their purpose, potential, and responsibilities as future professionals and citizens.
+
+---
+
+### 📚 SWAYAM Program Talk by Mr. Lakhvir Singh Khanna – 1:30 PM to 3:30 PM  
+This extended session introduced students to the **SWAYAM (Study Webs of Active–Learning for Young Aspiring Minds)** initiative — a national online education platform. **Mr. Lakhvir Singh Khanna** gave a **professional and practical overview** of how students can enroll in online courses, appear in credit-based exams, and enhance their learning beyond the classroom. He also explained how SWAYAM certificates add value to a student's profile, especially for competitive exams, placements, and upskilling.
+
+The session included a live demo on how to register, track progress, and choose relevant courses — making it an **extremely useful and career-relevant experience**.
+
+---
+
+### 💥 Closing Session by Dr. Arvind Dhangra – 3:30 PM to 4:00 PM  
+To conclude the day on a high note, **Dr. Arvind Dhangra** delivered a short but electrifying address. With his signature energy and humor, he encouraged students to maintain **momentum, enthusiasm, and curiosity** throughout their four-year journey. His anecdotes and practical life advice struck a chord with students, leaving them with smiles, inspiration, and a renewed sense of purpose.
+
+---
+
+## 🔑 **Key Takeaways**
+
+- 🧪 Strengthened academic foundations in Chemistry and Mathematics  
+- 💡 Inspired by motivational speech rooted in values and service  
+- 🧠 Gained clarity on SWAYAM and self-paced learning opportunities  
+- 🚀 Boosted morale and energy through final session by Dr. Dhangra
+
+---
+
+## 📝 **Conclusion**  
+Day 6 reflected GNDEC's commitment to a **well-rounded induction experience** — blending academics, ethics, digital literacy, and emotional motivation. Students left the campus not just with knowledge, but also with a greater sense of direction and belonging in the GNDEC family.
