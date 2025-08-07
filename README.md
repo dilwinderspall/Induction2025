@@ -3,6 +3,10 @@
 ## *Induction prograam 2025*
 ###### Batch:-2025-2029 (CSE)
 
+
+## _BY:-Dilwinder Singh (CSB)_
+
+
 # Day:-1
 
 The campus of **Guru Nanak Dev Engineering College**, *Ludhiana*, echoed with energy and excitement on the first day of the Student Induction Program 2025 for the freshers of **Computer Science and Information Technology branches**. The day unfolded with a warm and inspirational welcome that set the tone for an enriching academic journey ahead.
@@ -404,7 +408,9 @@ To conclude the day on a high note, **Dr. Arvind Dhangra** delivered a short but
 ---
 
 ## 📝 **Conclusion**  
-Day 6 reflected GNDEC's commitment to a **well-rounded induction experience** — blending academics, ethics, digital literacy, and emotional motivation. Students left the campus not just with knowledge, but also with a greater sense of direction and belonging in the GNDEC Day 9 (August 7, 2025)**  
+Day 6 reflected GNDEC's commitment to a **well-rounded induction experience** — blending academics, ethics, digital literacy, and emotional motivation. Students left the campus not just with knowledge, but also with a greater sense of direction and belonging in the GNDEC 
+
+# Day:-7 
 *For: B.Tech CSE – Section B | Venue: Auditorium & ME Seminar Hall | Time: 9:30 AM – 3:30 PM*  
 
 ## 🏫 **Introduction**  
@@ -503,4 +509,4 @@ This interactive hour ended with a Q&A round where freshers asked honest questio
 ---
 
 ## 📝 **Conclusion**  
-Day 9 was one of the most **comprehensive and empowering days** of the GNDEC Induction Program so far. With a blend of administrative clarity, technical learning, and peer bonding, it left students better informed, better connected, and better prepared for the exciting journey ahead.
+Day 7 was one of the most **comprehensive and empowering days** of the GNDEC Induction Program so far. With a blend of administrative clarity, technical learning, and peer bonding, it left students better informed, better connected, and better prepared for the exciting journey ahead.
